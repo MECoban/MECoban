@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--Mehmet Emin is here. 
-**MECoban/MECoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mehmet Emin is here. 
+
 
 Here are some ideas to get you started:
 
