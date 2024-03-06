@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mehmet Emin. 👋
 
 ## About Me
 I'm an aspiring AI/Data Scientist currently honing my skills at the BeCode Belgium bootcamp. With a background in Electrical Engineering and experience in Digital Marketing, I am passionate about leveraging data to drive decision-making and innovation. I am particularly fascinated by the intersection of technology and marketing, where data analytics can significantly enhance customer experiences and business outcomes.
