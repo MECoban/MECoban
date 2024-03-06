@@ -13,16 +13,16 @@ I'm an aspiring AI/Data Scientist currently honing my skills at the BeCode Belgi
 - **Tools & Platforms:** Git, Jupyter Notebook, Google Colab, Google Analytics
 
 ## Projects
-- **[Real Estate Price Predicto](https://github.com/MECoban/Immo-Eliza-Model-Deployment.git)** - Developed a ML Model to predict property prices all around the Belgium.
+- **[Real Estate Price Predictor](https://github.com/MECoban/Immo-Eliza-Model-Deployment.git)** - Developed a ML Model to predict property prices all around the Belgium.
 
 ## Achievements & Interests
 - Successfully transitioned from Electrical Engineering to Digital Marketing, demonstrating versatility and a capacity to learn rapidly.
 - Currently engaged in a rigorous AI/Data Science bootcamp, with the goal of merging my analytical skills with machine learning to innovate in digital marketing strategies.
 - **Interests:** Apart from my professional interests, I enjoy play futsal and chess.
 ## Connect with Me
-- [Email] (cobanmehmet3525@gmail.com)
-- [LinkedIn] (https://www.linkedin.com/in/mehmet-coban-6865b7190)
-- [GitHub] (https://github.com/MECoban)
+- [Email](cobanmehmet3525@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mehmet-coban-6865b7190)
+- [GitHub](https://github.com/MECoban)
 
 I'm always excited about collaborating on projects, especially those at the intersection of AI and marketing. Feel free to reach out if you'd like to connect or discuss potential projects!
 
