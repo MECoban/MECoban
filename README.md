@@ -5,7 +5,7 @@ I'm an aspiring AI/Data Scientist currently honing my skills at the BeCode Belgi
 
 ## Education & Transition
 - **BSc in Electrical Engineering:** Gained a solid foundation in engineering principles, electronics, and data analysis.
-- **Digital Marketing:** Developed expertise in CRM systems - outomations such as Keap (Infusion Soft) and Active Campaign, content marketing, and online campaign management, with a keen interest in analytics and performance measurement.
+- **Digital Marketing:** Developed expertise in CRM systems - outomations such as Keap (Infusion Soft) and Active Campaign, creating sales funnels and funnel hacking, and online campaign management, with a keen interest in analytics and performance measurement.
 - **AI/Data Science Bootcamp at BeCode Belgium:** Currently expanding my skills in machine learning, data visualization, and statistical modeling to transition into the AI and Data Science field.
 
 ## Technologies & Tools
