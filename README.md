@@ -21,8 +21,8 @@ I'm an aspiring AI/Data Scientist currently honing my skills at the BeCode Belgi
 - Currently engaged in a rigorous AI/Data Science bootcamp, with the goal of merging my analytical skills with machine learning to innovate in digital marketing strategies.
 - **Interests:** Apart from my professional interests, I enjoy play futsal and chess.
 ## Connect with Me
-- [Email](cobanmehmet3525@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mehmet-coban-6865b7190)
+- [Email](mailto:cobanmehmet3525@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mehmet-emin-coban-6865b7190/)
 - [GitHub](https://github.com/MECoban)
 
 I'm always excited about collaborating on projects, especially those at the intersection of AI and marketing. Feel free to reach out if you'd like to connect or discuss potential projects!
