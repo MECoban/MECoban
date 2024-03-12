@@ -14,6 +14,7 @@ I'm an aspiring AI/Data Scientist currently honing my skills at the BeCode Belgi
 
 ## Projects
 - **[Real Estate Price Predictor](https://github.com/MECoban/Immo-Eliza-Model-Deployment.git)** - Developed a ML Model to predict property prices all around the Belgium.
+- **[Amazon Profitable Product Finder for Droppshipping and Arbitrage](https://github.com/MECoban/Amazon-Scraper.git)** - Created a program scrapes product data from Amazon Canada and Amazon USA, compare prices and finds most profitable ones.
 
 ## Achievements & Interests
 - Successfully transitioned from Electrical Engineering to Digital Marketing, demonstrating versatility and a capacity to learn rapidly.
