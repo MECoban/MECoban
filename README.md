@@ -101,6 +101,14 @@ Software engineer with a background in Electrical Engineering and Digital Market
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MECoban&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MECoban&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MECoban&theme=darkhub&no-frame=true&column=6&margin-w=10" alt="Trophies" />
+</p>
+
 ---
 
 <p align="center">
