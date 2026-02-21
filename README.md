@@ -35,12 +35,14 @@ Software engineer with a background in Electrical Engineering and Digital Market
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
 
 **Backend & Data**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 **AI / ML & Data Science**
@@ -59,10 +61,16 @@ Software engineer with a background in Electrical Engineering and Digital Market
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
 
+**Bots & Integrations**
+
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
 **Marketing & CRM**
 
 ![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-356AE6?style=flat-square&logo=activecampaign&logoColor=white)
 ![Keap](https://img.shields.io/badge/Keap-3CB371?style=flat-square&logoColor=white)
+![Etsy API](https://img.shields.io/badge/Etsy_API-F16521?style=flat-square&logo=etsy&logoColor=white)
 
 **DevOps & Tools**
 
