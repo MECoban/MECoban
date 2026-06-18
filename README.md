@@ -93,7 +93,7 @@ Software engineer with a background in Electrical Engineering and Digital Market
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MECoban&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MECoban&show_icons=true&theme=github_dark&hide_border=true&count_private=true&commits_year=2026" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MECoban&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
