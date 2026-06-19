@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:cobanmehmet3525@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Let's%20talk-Got%20a%20hard%20problem%3F-2EA44F?style=for-the-badge" alt="Let's talk" />
+    <img src="https://img.shields.io/badge/Let's%20talk-Got%20a%20hard%20problem%3F-2EA44F?style=for-the-badge" alt="Let's talk" />
   </a>
   <a href="https://www.linkedin.com/in/mehmet-emin-coban-6865b7190/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,37 +19,38 @@
 
 ---
 
-### 💡 What I do for you
+### What I do for you
 
 > You have a problem. I design, build, and ship the AI/automation system that solves it — end to end.
 
-- 🤖 **Custom AI agents & RAG systems** over your own data — knowledge graphs, hybrid retrieval, LLM reranking
-- 📈 **ML that predicts & optimizes** — churn, pricing, forecasting, lead scoring
-- ⚙️ **Automation that replaces manual work** — scraping, data pipelines, CRM / WhatsApp / Stripe / ads integrations
-- 🚀 **Full-stack delivery** — from idea to deployed product (Next.js · FastAPI · Supabase)
+- **Custom AI agents & RAG systems** over your own data — knowledge graphs, hybrid retrieval, LLM reranking
+- **ML that predicts & optimizes** — churn, pricing, forecasting, lead scoring
+- **Automation at scale** — n8n workflows, scraping, data pipelines; CRM · WhatsApp · Stripe · ads integrations
+- **Full-stack & backend delivery** — from idea to deployed product (Next.js · FastAPI · Supabase)
 
 **The harder you think the problem is, the more I want to hear about it.** → [Let's talk](mailto:cobanmehmet3525@gmail.com)
 
 ---
 
-### 🛠 Selected Work
+### Selected Work
 
 Most of my recent work lives in private client and product repositories. Below is a mix of public projects and private case studies — happy to walk through any of them.
 
 | Project | What it solves | Stack |
 |---------|----------------|-------|
 | **AI Sales Expert Clone** · _private_ | Clones a top sales expert into an AI advisor: hybrid retrieval + knowledge graph + LLM reranking over domain knowledge | RAG · Knowledge Graph · FastAPI · LLMs |
-| **Ads Pulse** · _private SaaS_ | Ad-performance analytics platform with a companion Chrome extension | Next.js · Supabase · Chrome API |
+| **Enterprise ERP Platform** · _private_ | Backend features and system integrations for a company-wide ERP/CRM used in daily operations | Backend · REST APIs · MySQL |
+| **Automation Platform (n8n)** · _private_ | Workflow automation processing 1M+ executions per month across connected business systems | n8n · Webhooks · Integrations |
+| **Ad Attribution SaaS** · _private_ | Recovers Meta Ads conversions lost to iOS tracking changes — Chrome extension + analytics dashboard | Next.js · Supabase · Chrome API |
 | [**Immo-Eliza**](https://github.com/MECoban/Immo-Eliza-Model-Deployment) · _public_ | End-to-end ML pipeline predicting Belgian real-estate prices, deployed as an API | Python · scikit-learn · FastAPI |
-| [**screenshot-janitor**](https://github.com/MECoban/screenshot-janitor) · _public_ | Published Claude Code plugin (listed in community awesome lists) that tidies session screenshots | Claude Code · Shell |
 | [**netgsm-iys-sdk**](https://github.com/MECoban/netgsm-iys-sdk) · _public_ | Dependency-free TypeScript SDK for the NetGSM İYS consent-management API | TypeScript |
-| [**Churn Analysis**](https://github.com/MECoban/churnrate_analysis) · _public_ | Customer churn prediction & analysis pipeline | Python · Pandas · scikit-learn |
+| [**screenshot-janitor**](https://github.com/MECoban/screenshot-janitor) · _public_ | Published Claude Code plugin (listed in community awesome lists) | Claude Code · Shell |
 
-> 🔒 Private work (AI agents, SaaS products, automation) — **case studies available on request.**
+> Private work — AI agents, SaaS products, ERP, automation — case studies available on request.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **AI / ML**
 &nbsp;
@@ -79,6 +80,7 @@ Most of my recent work lives in private client and product repositories. Below i
 
 **Automation & Integrations**
 &nbsp;
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
@@ -93,7 +95,7 @@ Most of my recent work lives in private client and product repositories. Below i
 
 ---
 
-### 📊 Languages I work in
+### Languages I work in
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MECoban&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
